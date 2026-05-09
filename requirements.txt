@@ -1,0 +1,4 @@
+pygame==2.6.1
+keyboard==0.13.5
+mutagen==1.47.0
+rich==14.0.0
