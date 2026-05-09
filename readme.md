@@ -83,6 +83,8 @@ cli-mp3-player/
 ```
 
 ---
+<img width="552" height="430" alt="image" src="https://github.com/user-attachments/assets/93143d98-2c19-4ef3-8fb8-879f9c376560" />
+
 
 # Known Limitations
 
