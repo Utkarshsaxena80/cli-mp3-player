@@ -30,7 +30,7 @@ UI was vibecoded . Rest was written by me .
 ## Clone the repository
 
 ```bash
-git clone https://github.com/Utkarshsaxena80cli-mp3-player.git
+git clone https://github.com/Utkarshsaxena80/cli-mp3-player.git
 cd mp3player
 ```
 
